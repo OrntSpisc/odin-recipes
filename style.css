@@ -1,0 +1,37 @@
+body {
+    background-color: #1f1f1f;
+    padding: 12px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    text-align: center;
+    color: #a19dda;
+}
+
+.container {
+    background-color: #4f1168;
+    border-radius: 16px;
+    color: #a19dda;
+}
+
+.table{
+    list-style-type: none;
+    background-color: #3b2296;
+    border-radius: 12px;
+    width: 100%;
+}
+
+td {
+    border: 1px solid;
+}
+
+a:hover {
+    color: #a19dda;
+}
+
+a {
+    color: #ece4e4;
+}
+
+#title {
+    text-transform: uppercase;
+    font-weight: 900;
+}
